@@ -14,3 +14,6 @@ You can perform no-cors requests(Cross origin resource sharing), getting a respo
 Streaming responses with XHR the entire response is buffered in memory, with fetch you will be able to access the low-level stream. 
 
 However there are a few things that you can do with XHR that you can't do yet with Fetch such as report progress.
+
+
+![numbapi](https://github.com/Amrit-PennySoft/Numbers-Facts/blob/master/numbersapi1.png)
